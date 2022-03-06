@@ -1,3 +1,3 @@
 import math
 
-print(abs(3.0*(4.0/3.0-1)-1))
+print(abs(3*(4/3-1)-1))
